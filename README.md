@@ -69,7 +69,7 @@ Dalam era digital, kebutuhan akan platform berbasis web yang dapat menyimpan dan
    git clone https://github.com/username/menthrid.git
    ```
 2. Pindahkan ke folder root server lokal Anda (misalnya `htdocs` pada XAMPP atau `www` pada WAMP).
-3. Impor database dari file `menthrid.sql` yang disertakan dalam repository.
+3. Impor database dari file `20232_wp2_412022021.sql` yang disertakan dalam repository.
 4. Sesuaikan konfigurasi database pada file `config.php`.
 
 #### **Penggunaan:**
