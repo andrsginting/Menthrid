@@ -66,7 +66,7 @@ Dalam era digital, kebutuhan akan platform berbasis web yang dapat menyimpan dan
 #### **Instalasi:**
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/menthrid.git
+   git clone https://github.com/andrsginting/menthrid.git
    ```
 2. Pindahkan ke folder root server lokal Anda (misalnya `htdocs` pada XAMPP atau `www` pada WAMP).
 3. Impor database dari file `20232_wp2_412022021.sql` yang disertakan dalam repository.
