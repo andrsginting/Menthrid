@@ -1,7 +1,7 @@
 # Menthrid
 Mental Health Universitas Kristen Krida Wacana
 
-### Description untuk GitHub Repository Project Web "Menthrid"
+### Description
 
 ---
 
